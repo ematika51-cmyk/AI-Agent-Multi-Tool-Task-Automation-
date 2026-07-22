@@ -41,7 +41,20 @@ This makes tool selection consistent, predictable, and easy to debug.
 5. Activate the workflow
 
 ## Screenshots
-See the `docs/` folder for workflow screenshots.
+
+<img width="1179" height="655" alt="Screenshot 2026-07-22 113432" src="https://github.com/user-attachments/assets/26892652-d900-43a0-b131-ec1e8f28e40d" />
+<img width="1321" height="945" alt="Screenshot 2026-07-22 113503" src="https://github.com/user-attachments/assets/7fceb71a-a571-496d-b0bb-070d32fb2697" />
+<img width="1140" height="638" alt="Screenshot 2026-07-22 113514" src="https://github.com/user-attachments/assets/ecec4432-835d-4602-8af1-1e417606939c" />
+<img width="1320" height="962" alt="Screenshot 2026-07-22 113604" src="https://github.com/user-attachments/assets/67db322d-a569-4f56-8768-9e8f65cb604e" />
+<img width="1125" height="634" alt="Screenshot 2026-07-22 113617" src="https://github.com/user-attachments/assets/9c3c8120-ccf8-4268-94bc-7a3afcdd9f64" />
+<img width="1294" height="942" alt="Screenshot 2026-07-22 113658" src="https://github.com/user-attachments/assets/2daf1f80-b578-4e76-997d-017fd44710f6" />
+<img width="1316" height="927" alt="Screenshot 2026-07-22 113712" src="https://github.com/user-attachments/assets/e6a63f28-1e41-4571-9fca-a7fd22c5455f" />
+<img width="1319" height="924" alt="Screenshot 2026-07-22 113938" src="https://github.com/user-attachments/assets/99a029e0-11b0-4d45-b4f3-154b20d892e0" />
+<img width="1166" height="682" alt="Screenshot 2026-07-22 113951" src="https://github.com/user-attachments/assets/739b7aab-0be8-4c4d-a545-1e9d7059d18e" />
+<img width="1318" height="942" alt="Screenshot 2026-07-22 114055" src="https://github.com/user-attachments/assets/f040ad68-8a59-4885-b907-afc7ae40a237" />
+<img width="1125" height="657" alt="Screenshot 2026-07-22 114106" src="https://github.com/user-attachments/assets/8bf6c487-1cd4-41ea-8684-8deb14bb327a" />
+<img width="1319" height="945" alt="Screenshot 2026-07-22 114115" src="https://github.com/user-attachments/assets/7ed0115c-6e1d-4765-b188-0b762ec489d7" />
 
 ## License
 MIT
+### Authot: Atika Emaan
